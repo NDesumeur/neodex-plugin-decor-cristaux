@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorcristaux",
+  "repo": "NDesumeur/neodex-plugin-decor-cristaux",
+  "version": "1.0.0",
+  "sha256": "6ea86fe40ccfb85497999b76e7c6e89f967e942aa4a35b844a33891975d1660e",
+  "approvedAt": "2026-11-22T19:05:25.752Z",
+  "neobase": ">=4.1.0",
+  "signature": "635qwpp6WvBXhTw7HN5W6Yemfj8nPOiTxNn0pZ14V8c+cIAkXMRUPNBqn1gT4+fF8Zb1xau2/LrLlPGC6g0sCQ=="
+}
